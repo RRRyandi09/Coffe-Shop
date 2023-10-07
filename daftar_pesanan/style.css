@@ -1,0 +1,24 @@
+/* jumbotron*/
+.jumbotron{
+    background-image: url(A.jpg);
+    background-size: cover;
+    height: 350px;
+    width: 100%;
+    color: whitesmoke;
+    font-family: 'Paytone One', sans-serif;
+}
+.jumbotron .display-4 {
+    margin-top: 55px;
+}
+.jumbotron p {
+    font-size: 23px;
+}
+
+.jumbotron hr {
+    width: 400px auto;
+    border-color: white;
+    border-width: 3px;
+}
+.container a strong{
+    font-family: 'Paytone One', sans-serif;
+}
